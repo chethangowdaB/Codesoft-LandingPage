@@ -1,0 +1,40 @@
+
+.navmenu{
+    display: flex;
+}
+.navmenu li{
+    padding:0 1rem;
+}
+.navmenu li a{
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+.navmenu{
+    margin-left: 450px;
+    margin-top: 50px;
+}
+
+.t{
+  width: 320px;
+}
+ 
+.header{
+    align-items: center;
+    padding: 1rem;
+    display: flex;
+    margin:auto;
+    height: 90px;
+    width: 100%;
+    top: 1.5rem;
+    left:0;
+    position: fixed;
+    
+    z-index: 10;
+    
+
+  }
+  .navbarsbg{
+    background-color: black;
+    transition: 0.5s;
+  }
+  
